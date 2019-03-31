@@ -69,3 +69,5 @@ fabric.properties
 
 # others
 .idea/sonarlint/*
+
+target/
